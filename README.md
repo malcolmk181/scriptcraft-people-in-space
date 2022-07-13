@@ -11,3 +11,5 @@ Simply put the script in your `server-directory/scriptcraft/scripts` directory.
 
 ## Usage
 This script provides a command `/jsp people-in-space` to all users. It does not require `op` permissions.
+
+![image](https://user-images.githubusercontent.com/78397791/178803392-3fd976e9-f23b-43e5-846d-7ae2327c8878.png)
